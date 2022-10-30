@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'qtmyfirstserviceoct13'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_533561940E854F8F8001912B5FD94ACF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3F44DBD3FFC742BAB8F2CBA3A08DC693 }}
           package: .
